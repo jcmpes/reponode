@@ -1,0 +1,22 @@
+{
+  "name": "reponode",
+  "version": "1.0.0",
+  "description": "This is the repository for the nodejs server for the final project of Web X Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcmpes/reponode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcmpes/reponode/issues"
+  },
+  "homepage": "https://github.com/jcmpes/reponode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
